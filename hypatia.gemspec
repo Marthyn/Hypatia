@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "hypatia"
-  spec.version       = "0.0.2"
+  spec.version       = "0.0.3"
   spec.authors       = ["Marthyn Olthof"]
   spec.email         = ["Marthyn@live.nl"]
   spec.description   = %q{A gem for determining the difficulty of a basic mathematical operation}
