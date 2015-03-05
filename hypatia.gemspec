@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "hypatia"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Marthyn Olthof"]
   spec.email         = ["Marthyn@live.nl"]
   spec.description   = %q{A gem for determining the difficulty of a basic mathematical operation}
@@ -13,6 +13,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "bundler", "~> 1.3"
-  spec.add_development_dependency "rake", "~> 0"
-  spec.add_development_dependency "rspec", "~> 0"
+  spec.add_development_dependency "rake", "~> 10.2.1"
+  spec.add_development_dependency "rspec", "~> 3.0.0"
 end
