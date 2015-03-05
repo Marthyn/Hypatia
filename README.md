@@ -5,7 +5,7 @@
 
 You can use this gem for calculating the difficulty of a basic mathematical operation.
 
-This gem is part of the app [MedMath](www.medmath.com)
+This gem is part of the app [MedMath](http://www.medmath.com)
 
 ## Installation
 
