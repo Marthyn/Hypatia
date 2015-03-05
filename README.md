@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Marthyn/Hypatia.svg?branch=master)](https://travis-ci.org/Marthyn/Hypatia) 
+[![Code Climate](https://codeclimate.com/github/Marthyn/Hypatia/badges/gpa.svg)](https://codeclimate.com/github/Marthyn/Hypatia)
+
 # Hypatia
 
 You can use this gem for calculating the difficulty of a basic mathematical operation.
